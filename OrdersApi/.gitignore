@@ -1,0 +1,17 @@
+## Arquivos gerados no build e temporários
+[Bb]in/
+[Oo]bj/
+
+## Logs locais da aplicação
+logs/
+*.log
+*.jsonl
+
+## Pastas e arquivos de IDE (Visual Studio / VS Code)
+.vscode/
+.vs/
+*.user
+
+## Arquivos de Sistema Operacional
+.DS_Store
+Thumbs.db
